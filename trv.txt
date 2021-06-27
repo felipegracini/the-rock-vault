@@ -1,0 +1,53 @@
+<hr>
+
+                <div class="row justify-content-center no-gutters">
+                    <div class="col-lg-12 text-center mb-0" style="background-color: black;">
+                        <div style="width: 250px; margin: 0 auto;">
+                            <h4 class="text-white" style="margin-top: 2em;">The New Context</h4>
+                            <hr class="d-none d-lg-block mb-0 ml-0" style="border-color: red;" />
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="h-100">
+
+                                <br>
+
+                                <div class="project-text w-100 my-auto text-center text-lg-left" style="padding-top: 0rem; padding-bottom: 1rem;">
+                                    <p class="mb-0 text-white-50">É esse o jeito de trazer o bom e velho ROCK de volta</p>
+
+                                    <br>
+
+                                    <p class="mb-0 text-white-50">Como um entusiasta de longa data de música incrível, tanto real quanto habilmente, a totalidade dessa palestra sobre o Armagedom começou a me fazer sentir como um dinossauro - um miserável e cruel dinossauro. Nesse ponto, ocorreu uma coisa divertida - eu estava sintonizado no canal pop de Sirius quando três melodias de pedra sucessivas se seguiram: "Bad dream" de Halsey, "Blinding Lights" de The Weeknd e "Ideal to Meet Yah" de Niall Horan . Na verdade, eles não são especialistas em rock "credíveis", mas isso é irrelevante. "Bad Dream" parecia Evanescence / The Cranberries, "Blinding Lights" parecia new wave de meados dos anos 80, ala New Order / Scritti Politti, e "Ideal to Meet Yah" parecia ter saído diretamente da última parte do Manchester dos anos 80 cena de rock. De qualquer forma, se esse tipo de música é famoso, por que razão eles diriam que não se originam de equipes musicais?</p>
+
+                                    <br>
+
+                                    <p class="mb-0 text-white-50">A MTV parou de reproduzir gravações de música. A MTV foi extraordinária em estampar estrelas, independentemente de serem rock, pop, hip jump, e assim por diante. Era difícil ter um sucesso na MTV com a chance de você não ser uma estrela. enquanto o pop e o hip bounce têm consistentemente sido sobre estrelas, a MTV tornou um pré-requisito para uma gangue musical ser estrelas. quando a MTV desapareceu, não era mais tão significativo para gangues musicais terem estrelas.</p>
+
+                                    <br>
+
+                                    <p class="mb-0 text-white-50">A mídia baseada na web e o YouTube se tornam a base de divulgação da decisão. O movimento no rádio fez com que mais jovens membros da audiência abandonassem o rádio em grande número. Sua busca por músicas novas e legais mudou para a mídia baseada na web, SoundCloud e YouTube. Prepare-se para ser surpreendido. Os especialistas em Hip Hop estavam lá em grande número. O Hip Hop tem trabalhado consistentemente fora da fundação e esses são estágios que eles têm acesso direto, então eles se aproveitam deles. A mídia baseada na web é um primeiro estágio visual que trata do modo de vida primeiro e, depois, da música.</p>
+
+                                    <br>
+
+                                    <p class="mb-0 text-white-50">Os especialistas via mídia online tratam primeiro do estilo de vida e, depois, da música. 85% de todas as gravações nos palcos do Facebook são sintonizadas no modo mudo [1]. Um segundo excepcionalmente revelador para mim foi o ponto em que eu estava conversando com vários nossos assistentes que eram fãs de hip jump. Citei alguns especialistas em armadilhas: "O que você gosta neles?" Eles discutiram seus cabelos insanos, suas tatuagens faciais, suas roupas, sua imagem que estava explodindo e assim por diante. Naquele ponto recebi algumas informações sobre a música deles, a reação foi: "está tudo bem", por exemplo nada extraordinário. Como você pode ser um artesão se você não adora a música ?! No ponto em que superei meu antigo ressentimento, lembrei-me de que quando eu peguei os Sex Pistols uma vez, eu não peguei a música desde o início, mas eles eram legais! Durante a década de 2000, a stone tinha se destacado muito pela música, e a música nem era tão aceitável.</p>
+
+                                    <br>
+
+                                    <p class="mb-0 text-white-50">As progressões na tecnologia tornaram a criação de música mais simples. No passado, talvez o maior limite para se ser um artesão de crônicas especialista era que você precisava saber como tocar instrumentos e cantar em qualquer evento com habilidade. O avanço da criação computadorizada (Pro Tools, Autotune, pacotes de teste e assim por diante) implicava que você não precisava ter nenhuma capacidade melódica ou aptidões inatas, uma vez que todos agora podiam se estabilizar adequadamente nas crônicas. As circunstâncias inalienáveis e favoráveis da musicalidade e da habilidade melódica normal que costumavam ser o espaço dos especialistas em rock foram atualmente anuladas pela inovação que tornou tudo justo. Em vez de preencher seus dias com treinamento e práticas, você pode investir essa energia em se mostrar e construir sua personalidade / estilo de vida.</p>
+
+                                    <br>
+
+                                    <h4 class="text-white">Use the innovation scenario to make your music more extravagant.</h4>
+
+                                    <hr class="d-none d-lg-block mb-0 ml-0" style="border-color: red;" />
+                                </div>
+
+                                <div class="project-text w-100 my-auto text-center text-lg-right" style="padding-top: 1rem; padding-bottom: 1rem;">
+                                    <p class="mb-0 text-white-50">Em algum momento no futuro, alguma criança vai acordar e precisa sintonizar alguma opção diferente do hip-hop. Ele vai procurar por essa nova banda da mesma forma que procura por música hoje: mídia online, YouTube e assim por diante.</p>
+                                    <hr class="d-none d-lg-block mb-0 mr-0" style="border-color: red;" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
